@@ -20,7 +20,6 @@ require (
 	github.com/qiniu/go-sdk/v7 v7.22.0
 	github.com/tencentcloud/tencentcloud-sdk-go/tencentcloud/common v1.0.992
 	github.com/tencentcloud/tencentcloud-sdk-go/tencentcloud/ssl v1.0.992
-	github.com/tencentcloud/tencentcloud-sdk-go/tencentcloud/tag v1.0.992
 	golang.org/x/crypto v0.26.0
 )
 
@@ -81,7 +80,7 @@ require (
 	github.com/go-ozzo/ozzo-validation/v4 v4.3.0 // indirect
 	github.com/goccy/go-json v0.10.3 // indirect
 	github.com/gojek/valkyrie v0.0.0-20180215180059-6aee720afcdf // indirect
-	github.com/golang-jwt/jwt/v4 v4.5.0 // indirect
+	github.com/golang-jwt/jwt/v4 v4.5.1 // indirect
 	github.com/golang/groupcache v0.0.0-20210331224755-41bb18bfe9da // indirect
 	github.com/google/go-querystring v1.1.0 // indirect
 	github.com/google/uuid v1.6.0 // indirect
