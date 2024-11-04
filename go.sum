@@ -203,8 +203,8 @@ github.com/gojek/heimdall/v7 v7.0.3/go.mod h1:Z43HtMid7ysSjmsedPTXAki6jcdcNVnjn5
 github.com/gojek/valkyrie v0.0.0-20180215180059-6aee720afcdf h1:5xRGbUdOmZKoDXkGx5evVLehuCMpuO1hl701bEQqXOM=
 github.com/gojek/valkyrie v0.0.0-20180215180059-6aee720afcdf/go.mod h1:QzhUKaYKJmcbTnCYCAVQrroCOY7vOOI8cSQ4NbuhYf0=
 github.com/goji/httpauth v0.0.0-20160601135302-2da839ab0f4d/go.mod h1:nnjvkQ9ptGaCkuDUx6wNykzzlUixGxvkme+H/lnzb+A=
-github.com/golang-jwt/jwt/v4 v4.5.0 h1:7cYmW1XlMY7h7ii7UhUyChSgS5wUJEnm9uZVTGqOWzg=
-github.com/golang-jwt/jwt/v4 v4.5.0/go.mod h1:m21LjoU+eqJr34lmDMbreY2eSTRJ1cv77w39/MY0Ch0=
+github.com/golang-jwt/jwt/v4 v4.5.1 h1:JdqV9zKUdtaa9gdPlywC3aeoEsR681PlKC+4F5gQgeo=
+github.com/golang-jwt/jwt/v4 v4.5.1/go.mod h1:m21LjoU+eqJr34lmDMbreY2eSTRJ1cv77w39/MY0Ch0=
 github.com/golang/freetype v0.0.0-20170609003504-e2365dfdc4a0/go.mod h1:E/TSTwGwJL78qG/PmXZO1EjYhfJinVAhrmmHX6Z8B9k=
 github.com/golang/glog v0.0.0-20160126235308-23def4e6c14b/go.mod h1:SBH7ygxi8pfUlaOkMMuAQtPIUF8ecWP5IEl/CR7VP2Q=
 github.com/golang/groupcache v0.0.0-20200121045136-8c9f03a8e57e/go.mod h1:cIg4eruTrX1D+g88fzRXU5OdNfaM+9IcxsU14FzY7Hc=
@@ -388,8 +388,6 @@ github.com/tencentcloud/tencentcloud-sdk-go/tencentcloud/dnspod v1.0.898 h1:LoYv
 github.com/tencentcloud/tencentcloud-sdk-go/tencentcloud/dnspod v1.0.898/go.mod h1:c1j6YQ+vCbeA8kJ59Im4UnMd1GxovlpPBDhGZoewfn8=
 github.com/tencentcloud/tencentcloud-sdk-go/tencentcloud/ssl v1.0.992 h1:A6O89OlCJQUpNxGqC/E5By04UNKBryIt5olQIGOx8mg=
 github.com/tencentcloud/tencentcloud-sdk-go/tencentcloud/ssl v1.0.992/go.mod h1:BcvC7ZPdSlhRggVq4J1ToJlgv8bmODIAuSo0naFZOLo=
-github.com/tencentcloud/tencentcloud-sdk-go/tencentcloud/tag v1.0.992 h1:ttCM2rrkGipHMFTavrPExKCWcfNjT7AMQ5ERrPExdI4=
-github.com/tencentcloud/tencentcloud-sdk-go/tencentcloud/tag v1.0.992/go.mod h1:WtzarrflM+eoyD8vcRuIPd8fT5UXD4IhUry6iSAUnxc=
 github.com/tjfoc/gmsm v1.3.2 h1:7JVkAn5bvUJ7HtU08iW6UiD+UTmJTIToHCfeFzkcCxM=
 github.com/tjfoc/gmsm v1.3.2/go.mod h1:HaUcFuY0auTiaHB9MHFGCPx5IaLhTUd2atbCFBQXn9w=
 github.com/uber/jaeger-client-go v2.30.0+incompatible h1:D6wyKGCecFaSRUpo8lCVbaOOb6ThwMmTEbhRwtKR97o=
